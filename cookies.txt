@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tramitesmre.cancilleria.gov.co	TRUE	/tramites	FALSE	1999999999	JSESSIONID	4f5afcfc65f077079be6247baa44
+tramitesmre.cancilleria.gov.co	TRUE	/	FALSE	1999999999	BIGipServerpool_sistema_consular	3825276076.45165.0000
+tramitesmre.cancilleria.gov.co	TRUE	/	FALSE	1999999999	f5avr1622701479bbbbbbbbbbbbbbbb	DGJODABCFPDIIEEFNHDGIMNECFKMAPNLJPNLEBIKGEKDJDLPDMDEBPKHPGHAOADFNNJPDLEIEBFMFJBODLPMBFAKEJJEIGALJOKNPCIBGMCPPNKGDDAECLMPBCEPCHLD
+tramitesmre.cancilleria.gov.co	TRUE	/	FALSE	1999999999	f5_cspm	1234
+
